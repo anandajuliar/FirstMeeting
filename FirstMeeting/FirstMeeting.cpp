@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {//begin
-    int nJejari, nLuas; 
+    float nJejari, nLuas; 
     //numeric nJejari, nLuas
     cout << "Masukan Jejari = "; 
     //display 'Masukan Jejari =' 
@@ -11,5 +11,5 @@ int main()
     // accept nJejari
     nLuas = 3.14 * nJejari * nJejari;
         //compute nLuas = 3.14 * r * r
-        cout << "Luasnya =" << nLuas << endl; // display 
+        cout << "Luasnya =" << nLuas << endl; // display 'Luasnya =' +nLuas
 }//end
