@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {//begin
-    float nJejari, nLuas; 
+    int nJejari, nLuas; 
     //numeric nJejari, nLuas
     cout << "Masukan Jejari = "; 
     //display 'Masukan Jejari =' 
